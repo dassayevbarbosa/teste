@@ -7,7 +7,7 @@ public class IxcTeste {
   public static void main(String[] args) throws Exception {
     Map<String, String> filtros = Map.of(
         "qtype", "fornecedor.cpf_cnpj",
-        "query", "21.602.295/0001-46",
+        "query", "21602295000146",
         "oper", "=",
         "page", "1",
         "rp", "20",
